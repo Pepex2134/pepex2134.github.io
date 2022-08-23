@@ -16,15 +16,16 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "snowscan.io"
+title                    : "Nezf"
 title_separator          : "-"
 name                     : "Snowscan"
-description              : "Posts about security, CTFs and networking"
+description              : "A normal blog of cibersecurity of a normal person"
 url                      : "https://snowscan.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "slemire/slemire.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+icon			 : "/assets/images/icon.png"
+teaser                   :  "/assets/images/icon.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -76,6 +77,7 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+
 # Social Sharing
 twitter:
   username               :
@@ -105,7 +107,7 @@ author:
   avatar           : "/assets/images/avatar.png"
   bio              : "Pentester, CTF player<br>HackTheBox ATeam"
   location         : "Mexico"
-  email            : "rsd4019n@protonmail.com"
+  email            : rsd4019n@protonmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
