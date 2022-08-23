@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 locale                   : "en-US"
 title                    : "Nezf"
 title_separator          : "-"
-name                     : "Snowscan"
+name                     : "Nezf"
 description              : "A normal blog of cibersecurity of a normal person"
-url                      : "https://snowscan.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://nezf00.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "slemire/slemire.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Nezf00/nezf00.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
 icon			 : "/assets/images/icon.png"
 teaser                   :  "/assets/images/icon.png"
@@ -119,7 +119,7 @@ author:
   github           : 
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          : "Nezf00"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
@@ -128,7 +128,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "snowscan"
+  twitter          : "Nezf00"
   vine             :
   weibo            :
   xing             :
