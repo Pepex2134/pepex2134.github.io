@@ -1,4 +1,20 @@
-### Resumen del capítulo 1/3 - La Metamorfosis (Franz Kafka)
+---
+layout: single
+title: Resumen del capítulo 1/3 - La Metamorfosis (Franz Kafka)
+excerpt: ""
+date: 2024-15-04
+classes: wide
+header:
+  teaser: /assets/images/avatar.png
+  teaser_home_page: true
+  icon: /assets/images/hackthebox.webp
+categories:
+  - books
+  - franz kafka
+tags:
+  - lecuture
+  - school
+---
 Gregorio Samsa se despertó transformado en un insecto, el reloj indicaba las seis y media, y el tren salía a las cinco. No había sonado el despertador, pero sin embargo, si se apresuraba, podría alcanzar el tren de las siete.
 
 Le era imposible salir de su cama. Su madre llamó a la puerta preocupada y él insistió en que no sucedía nada, detrás de ella apareció su padre y su hermana. Buscaba decir que estaba enfermo, pero su jefe vendría con el médico y al darse cuenta de que no estaba enfermo, lo echaría de su empleo por irresponsable, no podía permitirse esto por la deuda de su familia, que tenía con su jefe.
